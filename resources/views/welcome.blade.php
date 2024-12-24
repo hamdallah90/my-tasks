@@ -1,0 +1,1 @@
+Go to <a href="/tasks">Tasks</a> to see the tasks page.
